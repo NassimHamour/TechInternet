@@ -5,7 +5,8 @@ Par:
 - Yacouba Garba Ouddou, 
 - Aimé Sean Shaq' BOUSSOUGOU BOUSSOUGOU, 
 - Stéphanie England.
-- 
+
+
 Documentation :
 Ce programme est un simple serveur de partage qui permet deux personnes de se connecter de manière peer-to-peer et de se partager des messages encryptés.
 
