@@ -1,0 +1,16 @@
+doctype html
+html
+  head
+    title Courriel
+    link(rel='stylesheet', href='/css/style.css')
+  body
+    h1 Bienvenue dans votre courriel
+    div.header(id='header')
+      select(id="focus")
+        option(value="inbox") Boîte de réception
+        option(value="write") Nouveau message
+        option(value="yp") Carnet d'addresses
+        option(value="outbox") Messages envoyés
+    div.body(id='body')
+
+    script(src='/js/courriel.js')

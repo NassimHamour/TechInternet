@@ -1,0 +1,47 @@
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  padding : 60px ;
+  border-style : solid;
+  border-radius : 7em ;
+  border-width : 2px;
+  border-color : white ;
+  background-color:darkgrey ;
+  background-image:url("/img/beach.jpg");
+  text-align: center;
+}
+
+h1 {
+  font-size:40px;
+}
+
+a:visited{
+  color:white;
+}
+
+a:hover{
+  color:darkgrey;
+}
+
+a:link{
+  color: black;
+}
+
+a:active{
+  color:red;
+}
+
+li{
+    list-style-type: none;
+}
+
+#liste{
+  position:relative;
+  text-align:left;
+  left:40%;
+}
+
+#textenvoi {
+  width:300px;
+  height: 150px;
+}
