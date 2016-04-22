@@ -12,7 +12,7 @@ Ce programme est un simple serveur de partage qui permet deux personnes de se co
 
 Afin de se connecter avec quelqu'un d'autre, il doit entrer l'adresse IP de son locuteur dans le fichier Index.js du dossier principal. Il doit aussi envoyer son IP à son locuteur.
 
--	L'utilisateur est invité à se choisir un nom d'utilisateur et un mot de passe. Ensuite, le programme lui attribut une clé encrypté automatiquement.
+-	L'utilisateur est invité à se choisir un nom d'utilisateur et un mot de passe. Ensuite, le programme lui attribut une clé encrypté automatiquement. Présentement, le nom d'utilisateur par defaut est Mon Addresse et le mot de passe : test
 -	L'utilisateur peut voir les messages qu'il a reçu et rafraîchir la page afin d'obtenir les messages les plus récents.
 -	Il peut envoyer des messages à tous les membres de sa liste de contact. Un message de confirmation apparait lorsque le message est envoyé correctement.
 -	Il peut accéder à sa liste de contact et obtenir leur clé encryptée. Sson propre nom est afficher dans la lsite de contacts afin qu'il puisse envoyer sa clé à d'autres personnes qui veulent l'ajouter.
